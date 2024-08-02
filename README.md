@@ -1,1 +1,1 @@
-# coding-project-template
+# coding-project-complete-website
